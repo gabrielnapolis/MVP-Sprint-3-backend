@@ -34,7 +34,7 @@ Contendo os seguintes endpoints:
 
 **POST Pessoa** - Cadastro de usuário;
 
-**GET Pessoas** - Leitura de usuáiros;
+**GET Pessoas** - Leitura de usuários;
 
 **GET Pessoa** - Leitura de usuário;
 
