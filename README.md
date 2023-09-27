@@ -44,11 +44,11 @@ Contendo os seguintes endpoints:
  
 * **PUT Pessoa** - Atualização de usuário;
  
-* **ReadById Pessoa** - Leitura de usuário por ID.
+* **GET Pessoa/<ID>** - Leitura de usuário por ID.
  
 * **POST Pokemon** - Adiciona  um pokemon por usuário
  
-* **GET Pokemon** - Leitura de pokemons por ID de usuário.
+* **GET Pokemon/<Id_pessoa>** - Leitura de pokemons por ID de usuário.
  
 * **DELETE Pokemon** - Deleta um pokemon por ID de usuário.
 
