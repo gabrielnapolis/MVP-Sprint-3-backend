@@ -26,8 +26,22 @@ Nesse contexto foi utilizado todo o conteúdo apresentado ao longo das matérias
 
 # Sobre este repositório
 
+Esse repositório é referente ao Componente C, uma API REST implementada em Python e Flask. Sendo o backend da aplicação, conseguimos realizar o cadastro, edição, leitura e exclusão de treinadores Pokemon.
 
+Contendo os seguintes endpoints:
 
+**POST Login** - Realiza a autenticação de usuário;
+
+**POST Pessoa** - Cadastro de usuário;
+**GET Pessoas** - Leitura de usuáiros;
+**GET Pessoa** - Leitura de usuário;
+**DELETE Pessoa** - Deleta um usuário;
+**PUT Pessoa** - Atualização de usuário;
+**ReadById Pessoa** - Leitura de usuário por ID.
+
+**POST Pokemon** - Adiciona  um pokemon por usuário
+**GET Pokemon** - Leitura de pokemons por ID de usuário.
+**DELETE Pokemon** - Deleta um pokemon por ID de usuário.
 
 
 
