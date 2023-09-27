@@ -64,13 +64,14 @@ Contendo os seguintes endpoints:
 2° - Executar container
 
         docker run -p 5000:5000 backend
-        
+
 
 ## Executar a API local
 
 1° - Instalar dependências do projeto:
 
     Este comando instala as dependências/bibliotecas, descritas no arquivo `requirements.txt`.
+    Execute-o da raiz do projeto
     
         pip install -r requirements.txt
 
