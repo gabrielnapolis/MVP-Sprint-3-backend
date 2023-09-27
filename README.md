@@ -56,15 +56,16 @@ Contendo os seguintes endpoints:
 
 # Executar a API local
 
-1. Será necessário ter todas as libs python listadas no `requirements.txt` instaladas.
-
-    pip install -r requirements.txt
+1° - Instalar dependências do projeto:
 
     Este comando instala as dependências/bibliotecas, descritas no arquivo `requirements.txt`.
+    
+        pip install -r requirements.txt
 
-2. Para executar a API basta executar:
 
-    flask run --host 0.0.0.0 --port 5000 --reload
+2° - Para executar a API basta executar:
+
+        flask run --host 0.0.0.0 --port 5000 --reload
 
 
 ## Executando através do Docker
