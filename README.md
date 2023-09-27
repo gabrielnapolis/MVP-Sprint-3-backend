@@ -44,7 +44,7 @@ Contendo os seguintes endpoints:
  
 * **PUT Pessoa** - Atualização de usuário;
  
-* **GET Pessoa/<Id>** - Leitura de usuário por ID.
+* **GET Pessoa/<Id_pessoa>** - Leitura de usuário por ID.
  
 * **POST Pokemon** - Adiciona  um pokemon por usuário
  
