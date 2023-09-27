@@ -24,7 +24,7 @@ Nesse contexto foi utilizado todo o conteúdo apresentado ao longo das matérias
 
 **Componente C:** API REST desenvolvida com Python e Flask.
 
-## Sobre este repositório
+# Sobre este repositório
 
 
 
@@ -44,12 +44,12 @@ Nesse contexto foi utilizado todo o conteúdo apresentado ao longo das matérias
     flask run --host 0.0.0.0 --port 5000 --reload
 
 
-## Executando através do Docker
+# Executando através do Docker
 
-# Criar imagem Docker
+## Criar imagem Docker
 1. docker build -t backend .
 
-# Executar container
+## Executar container
 2. docker run -p 5000:5000 backend
 
 
