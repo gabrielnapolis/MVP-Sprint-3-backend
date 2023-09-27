@@ -66,12 +66,16 @@ Contendo os seguintes endpoints:
     flask run --host 0.0.0.0 --port 5000 --reload
 
 
-# Executando através do Docker
+## Executando através do Docker
 
-## Criar imagem Docker
-1. docker build -t backend .
+1° - Criar imagem Docker:
 
-## Executar container
-2. docker run -p 5000:5000 backend
+    No diretório raiz do projeto, execute o seguinte comando:
+
+        docker build -t backend .
+
+2° - Executar container
+
+        docker run -p 5000:5000 backend
 
 
