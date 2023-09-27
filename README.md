@@ -26,29 +26,7 @@ Nesse contexto foi utilizado todo o conteúdo apresentado ao longo das matérias
 
 ## Sobre este repositório
 
-Esse repositório é referente ao Componente A, o frontend da aplicação, desenvolvido em Angular. Através dele, realizamos chamadas para o Componente C, o backend da aplicação, e também para o Componente B, a PokeApi.
 
-O intuito desse sistema foi realizar um cadastro de treinadores Pokemon, onde é possível realizar seu cadastro e adicionar pokemons a sua pokédex.
-
-Após isso, o treinador pode adicionar e remover pokemons de sua pokédex.
-
-Na página onde são listados todos os Pokemons, foi usado os seguintes endpoints:
-
-Endpoint onde é possível consultar uma determinada quantidade de pokemons, informando a quantidade no parâmetro "limit"
-    
-    Exemplo: https://pokeapi.co/api/v2/pokemon/?limit=100
-
-Com essa chamada, é relizada a listagem inicial, mostrando todos os pokemons disponível para o treinador adicionar a sua pokédex.
-<img src="src\assets\img\portfolio.png">
-
-
-Após a chamada de todos, é possível realizar uma chamada indivídual, passando o código do pokemon
-
-    Exemplo: https://pokeapi.co/api/v2/pokemon/1
-
-Com essa chamada, é realizada a consulta de informações dos pokemons, como: tipos, fraquezas, peso, altura, habilidades, e imagens.
-
-<img src="src\assets\img\portfolio2.png">
 
 
 
