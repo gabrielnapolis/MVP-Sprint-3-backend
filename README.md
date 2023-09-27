@@ -6,11 +6,11 @@ Os requisitos deste projeto eram que fosse desenvolvida uma aplicação, utiliza
 
 Como mostrado na imagem a seguir, era necessário o desenvolvimento de 03 componentes, sendo eles:
 
-**Componente A:** Desenvolvimento de uma API REST implementada em Python e Flask ou uma interface do usuário, utilizando HTML, CSS e JavaScript com alguma biblioteca ou framework de sua preferência (Angular, React, Vue, etc).
+* **Componente A:** Desenvolvimento de uma API REST implementada em Python e Flask ou uma interface do usuário, utilizando HTML, CSS e JavaScript com alguma biblioteca ou framework de sua preferência (Angular, React, Vue, etc).
 
-**Componente B:** Uso de uma API externa pública e que ofereça um serviço não pago.
+* **Componente B:** Uso de uma API externa pública e que ofereça um serviço não pago.
 
-**Componente C:** API REST ou GraphQL. 
+* **Componente C:** API REST ou GraphQL. 
 
 Nesse contexto foi utilizado todo o conteúdo apresentado ao longo das matérias de Arquitetura e Projeto de Software, Arquitetura de Microsserviços e Arquitetura de Nuvem e DevOps.
 
@@ -18,11 +18,12 @@ Nesse contexto foi utilizado todo o conteúdo apresentado ao longo das matérias
 
 ## Para esse projeto, foi utilizada a seguinte arquitetura
 
-**Componente A:** Frontend em Angular.
+* **Componente A:** Frontend em Angular.
+Repositório: https://github.com/gabrielnapolis/MVP-Sprint-3-frontend
 
-**Componente B:** PokeApi, API pública onde é possível consultar todos os pokemons, juntamente com seus atributos como: imagens, habilitades, tipos, altura, peso, fraquezas. Documentação: https://pokeapi.co/
+* **Componente B:** PokeApi, API pública onde é possível consultar todos os pokemons, juntamente com seus atributos como: imagens, habilitades, tipos, altura, peso, fraquezas. Documentação: https://pokeapi.co/
 
-**Componente C:** API REST desenvolvida com Python e Flask.
+* **Componente C:** API REST desenvolvida com Python e Flask.
 
 # Sobre este repositório
 
