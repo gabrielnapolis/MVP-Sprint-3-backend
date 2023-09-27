@@ -30,25 +30,25 @@ Esse repositório é referente ao Componente C, uma API REST implementada em Pyt
 
 Contendo os seguintes endpoints:
 
-**POST Login** - Realiza a autenticação de usuário;
-
-**POST Pessoa** - Cadastro de usuário;
-
-**GET Pessoas** - Leitura de usuários;
-
-**GET Pessoa** - Leitura de usuário;
-
-**DELETE Pessoa** - Deleta um usuário;
-
-**PUT Pessoa** - Atualização de usuário;
-
-**ReadById Pessoa** - Leitura de usuário por ID.
-
-**POST Pokemon** - Adiciona  um pokemon por usuário
-
-**GET Pokemon** - Leitura de pokemons por ID de usuário.
-
-**DELETE Pokemon** - Deleta um pokemon por ID de usuário.
+* **POST Login** - Realiza a autenticação de usuário;
+ 
+* **POST Pessoa** - Cadastro de usuário;
+ 
+* **GET Pessoas** - Leitura de usuários;
+ 
+* **GET Pessoa** - Leitura de usuário;
+ 
+* **DELETE Pessoa** - Deleta um usuário;
+ 
+* **PUT Pessoa** - Atualização de usuário;
+ 
+* **ReadById Pessoa** - Leitura de usuário por ID.
+ 
+* **POST Pokemon** - Adiciona  um pokemon por usuário
+ 
+* **GET Pokemon** - Leitura de pokemons por ID de usuário.
+ 
+* **DELETE Pokemon** - Deleta um pokemon por ID de usuário.
 
 
 
