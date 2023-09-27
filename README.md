@@ -14,7 +14,7 @@ Como mostrado na imagem a seguir, era necessário o desenvolvimento de 03 compon
 
 Nesse contexto foi utilizado todo o conteúdo apresentado ao longo das matérias de Arquitetura e Projeto de Software, Arquitetura de Microsserviços e Arquitetura de Nuvem e DevOps.
 
-<img src="src\assets\img\requisitos.png">
+<img src=".\src\assets\img\requisitos.png">
 
 ## Para esse projeto, foi utilizada a seguinte arquitetura
 
