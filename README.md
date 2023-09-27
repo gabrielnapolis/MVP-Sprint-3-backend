@@ -21,7 +21,7 @@ Nesse contexto foi utilizado todo o conteúdo apresentado ao longo das matérias
 * **Componente A:** Frontend em Angular.
 Repositório: https://github.com/gabrielnapolis/MVP-Sprint-3-frontend
 
-* **Componente B:** PokeApi, API pública onde é possível consultar todos os pokemons, juntamente com seus atributos como: imagens, habilitades, tipos, altura, peso, fraquezas. Documentação: https://pokeapi.co/
+* **Componente B:** PokeApi, API pública onde é possível consultar todos os pokemons, juntamente com seus atributos como: imagens, habilidades, tipos, altura, peso, fraquezas. Documentação: https://pokeapi.co/
 
 * **Componente C:** API REST desenvolvida com Python e Flask.
 
